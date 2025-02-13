@@ -1,7 +1,8 @@
 # Hi, I'm Sayuj 
 🎓 Studying Computer Science at Metropolitan State University of Denver<br>🔭 Currently working on software engineering projects and automation tools<br>🌱 Learning Java and full-stack development<br>💬 Ask me about anything software engineering related
 
-Skills: <div align="left">
+## Skills:
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> Python
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  /> Java
