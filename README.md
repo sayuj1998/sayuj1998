@@ -1,12 +1,8 @@
 # Hi, I'm Sayuj 
 🎓 Studying Computer Science at Metropolitan State University of Denver<br>🔭 Currently working on software engineering projects and automation tools<br>🌱 Learning Java and full-stack development<br>💬 Ask me about anything software engineering related
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayujs) 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+Skills: <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /> # Python
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
@@ -29,19 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
 </div>
 
-###
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayujs) 
 
-<div align="right">
-  <img height="100" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2tnbHpkcHNnbGg1MnJmZXYyc2d2Y2dyanE4OWxlMnVoejBrNjloaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mDx2cpvX9QWjerAwjg/giphy.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sayuj1998/sayuj1998/output/snake.svg" alt="Snake animation" />
-
-###
 
 
 
